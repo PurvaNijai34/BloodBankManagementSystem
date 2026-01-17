@@ -83,3 +83,20 @@ This project helps manage **donors, hospitals, blood donations, blood stock, and
 ```text
 Username: 123
 Password: 123
+```
+
+---
+### How to Run this Project:
+#### Step 1: Clone the Repository
+```bash
+git clone https://github.com/PurvaNijai34/BloodBankManagementSystem.git
+```
+#### Step 2: Compile the Program
+```bash
+javac BloodBankSystem.java
+```
+#### Step 3: Run the Program
+```bash
+java BloodBankSystem
+```
+
